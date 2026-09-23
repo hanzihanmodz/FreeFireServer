@@ -1,16 +1,21 @@
 # Porquê o leak?
-um certo otário ta achando muito legal falar que ta fazendo tudo sozinho, quando EVIDENTEMENTE ele só logou no MEU server pra roubar minhas coisas.
-ele não seria PORRA nenhuma sem mim, e fica se passando de "santo" pros membros dele. o cara veio dar ATAQUE na minha maquina, e fica logando com url redirect pra
-roubar coisa daqui.
+
+Um certo otário está achando muito legal falar que está fazendo tudo sozinho, quando EVIDENTEMENTE ele só logou no MEU servidor para roubar minhas coisas.
+
+Ele não seria PORRA nenhuma sem mim, e fica se passando de "santo" para os membros dele. O cara veio dar ATAQUE na minha máquina e fica logando com URL redirect para roubar coisas daqui.
 
 # O que funciona aqui?
-dá pra jogar suave, quase tudo no modo CS tá funcionando normal
+
+Dá para jogar de boa. Quase tudo no modo CS está funcionando normalmente.
 
 # Como atualizo?
-sla, te vira
 
-# Creditos
-eu (foices), e claudao
+Sei lá, te vira.
+
+# Créditos
+
+Foices, Lugami, Claude AI, HanzihanModz.
 
 # Mais alguma coisa?
-pau no cu de todo mundo que duvidou de mim, eu estou acima de todos vocês
+
+Pau no cu de todo mundo que duvidou de mim. Eu estou acima de todos vocês.
